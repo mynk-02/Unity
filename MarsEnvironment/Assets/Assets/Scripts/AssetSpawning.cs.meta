@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: af05af5ee568a2d4bacdbe46a8058c8e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Respawned_Object: {fileID: 3025572141003943769, guid: 118611378eb0fa945b060f252705fce5, type: 3}
+  - Ground: {instanceID: 0}
+  - Crate: {fileID: 2040349623745130857, guid: 2618e9b6fb07ee34caa2ab285922ad37, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
